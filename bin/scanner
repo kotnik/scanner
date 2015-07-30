@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+import os
+import sys
+
+path = os.path.join(os.path.dirname(__file__), "..")
+if os.path.exists(os.path.join(path, 'scanner', '__init__.py')):
+    sys.path.insert(0, path)
+
+import scanner
+
+sys.exit(scanner.main(sys.argv[1:]))

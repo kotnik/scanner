@@ -1,0 +1,3 @@
+[Core]
+Name = Forward Secrecy
+Module = forward_secrecy

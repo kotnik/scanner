@@ -1,0 +1,15 @@
+# Put hosts here, one per line:
+www.rts.rs
+www.blic.rs
+www.b92.net
+www.kurir-info.rs
+www.novosti.rs
+www.24sata.rs
+www.mondo.rs
+smedia.rs
+www.limundo.com
+www.kupujemprodajem.com
+www.polovniautomobili.com
+www.krstarica.com
+infostud.com
+bg.ac.rs

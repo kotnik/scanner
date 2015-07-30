@@ -1,0 +1,3 @@
+[Core]
+Name = RC4
+Module = rc4
